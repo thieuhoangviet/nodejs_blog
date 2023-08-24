@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --inspect app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thieuhoangviet/nodejs_blog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blog",
+    "nodejs",
+    "blog"
+  ],
+  "author": "vietTH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thieuhoangviet/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/thieuhoangviet/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
